@@ -17,6 +17,10 @@ terminal-window stack {
 	background: none;
 }
 
+scrollbar {
+	border-radius: 8px;
+}
+
 /*** NAUTILUS ***/
 
 window decoration {
